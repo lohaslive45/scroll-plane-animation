@@ -1,0 +1,7 @@
+Javascript Scroll Animation Tutorial  GSAP and ScrollMagic Tutorial
+
+https://youtu.be/fR0tHI0nFYk
+
+
+套用現成css背景色
+https://webgradients.com/
